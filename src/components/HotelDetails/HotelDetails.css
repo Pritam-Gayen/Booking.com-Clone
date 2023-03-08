@@ -1,0 +1,27 @@
+.nav-buttons {
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    border-radius: 0;
+}
+.display-rooms {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.display-rooms:hover{
+    transform: scale(1.5);
+    transition: 0.5s;
+}
+.hotel-description{
+    text-align: justify;
+}
+
+.table-header-color{
+    background-color: rgb(44, 127, 236);
+    color: white;
+}
+.table-text-center{
+    text-align: center;
+}

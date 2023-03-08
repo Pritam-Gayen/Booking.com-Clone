@@ -1,0 +1,20 @@
+.card {
+    margin: 20px;
+}
+.card-header {
+    background-color: rgb(36, 35, 35);
+    color: white;
+}
+.hotel-img-holder{
+    margin: 0;
+    padding: 0;
+    /* height: 250px; */
+    width: 100%;
+    
+}
+.hotel-img{
+    height: 100%;
+    width: 100%;
+    border-bottom-left-radius: 5px;
+    object-fit:cover;
+}
